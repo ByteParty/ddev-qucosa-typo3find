@@ -7,7 +7,7 @@ ddev start
 ddev composer install
 
 # import basic database
-ddev import-db -f qucosa-find-2021-05-19.sql.gz
+ddev import-db -f qucosa-find-2021-06-01.sql.gz
 
 # reindex all documents (DB -> Solr)
 # tbd
