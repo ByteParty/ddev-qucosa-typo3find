@@ -7,7 +7,7 @@ ddev start
 ddev composer install
 
 # import basic database
-ddev import-db -f qucosa-find-2021-06-01.sql.gz
+ddev import-db -f qucosa-find-2021-06-29.sql.gz
 
 # load sample data into Solr
 ./solr-import-data.sh
