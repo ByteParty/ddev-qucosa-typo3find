@@ -27,3 +27,5 @@ https://qucosa.ddev.site/typo3
 User: admin
 
 Password: admin
+
+Install-Tool: admin
