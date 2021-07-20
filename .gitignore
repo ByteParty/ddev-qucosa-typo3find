@@ -4,6 +4,10 @@ nbproject
 /vendor
 /public/*
 !/public/.htaccess
+!/public/fileadmin
+/public/fileadmin/*
+!/public/fileadmin/api
+!/public/fileadmin/templates
 !/public/typo3conf
 /public/typo3conf/*
 !/public/typo3conf/LocalConfiguration.php
