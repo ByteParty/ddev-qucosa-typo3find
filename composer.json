@@ -2,7 +2,7 @@
     "repositories": {
         "slub-web-qucosa-ul": {
             "type": "git",
-            "url": "https://github.com/ByteParty/ddev-qucosa-typo3find.git"
+            "url": "https://github.com/ByteParty/slub_web_qucosa.git"
         },
         "0": {
             "type": "composer",
