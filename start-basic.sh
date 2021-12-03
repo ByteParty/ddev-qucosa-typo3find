@@ -7,10 +7,10 @@ ddev start
 ddev composer install
 
 # import basic database
-ddev import-db -f qucosa-db-xima-2021-09-20.sql.gz
+ddev import-db -f qucosa-db-xima-2021-12-03.sql.gz
 
 # load sample data into Solr
 ./solr-import-data.sh
 
 # build css
-ddev exec ./build-css.sh
+# ddev exec ./build-css.sh

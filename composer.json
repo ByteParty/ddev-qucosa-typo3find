@@ -34,7 +34,7 @@
         "typo3/cms-viewpage": "^8.7",
         "typo3/cms-wizard-crpages": "^8.7",
         "typo3/cms-wizard-sortpages": "^8.7",
-        "kitodo/publication": "3.x-dev",
+        "kitodo/publication": "4.x-dev",
         "kitodo/presentation": "^3.2",
         "slub/slub-web-qucosa": "dev-qucosa-ul",
         "typo3/cms-lowlevel": "^8.7",
